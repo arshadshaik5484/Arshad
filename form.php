@@ -1,6 +1,6 @@
 <html>
     
-    <body bgcolor="peach">
+    <body bgcolor="pink">
         
         
         <center><h1 >Application Form</h1></center><br><br>
